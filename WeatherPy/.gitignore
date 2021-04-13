@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+api_keys
+*/api_keys/*
+_pycache_
+*/_pycache_/*
